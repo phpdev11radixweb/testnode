@@ -1,0 +1,26 @@
+{
+  "name": "testnode",
+  "version": "1.0.0",
+  "description": "testing node",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "?"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phpdev11radixweb/testnode.git"
+  },
+  "keywords": [
+    "?"
+  ],
+  "author": "Anshul <anshul.gupta@radixweb.com> (test.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phpdev11radixweb/testnode/issues"
+  },
+  "homepage": "https://github.com/phpdev11radixweb/testnode#readme"
+}
